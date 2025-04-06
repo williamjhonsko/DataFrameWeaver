@@ -1,0 +1,23 @@
+
+---
+
+### **2. 26_EndpointPulseTrack**  
+**Description:**  
+Monitors latency, availability, and response codes for multiple HTTP endpoints.
+
+#### **README.md**
+```markdown
+# EndpointPulseTrack - Multi-API Health Monitor
+
+EndpointPulseTrack provides live visibility into the uptime and speed of public or private APIs.
+
+## Features
+- Bulk API tracking  
+- Logs response time + status  
+- Export to JSON or CSV  
+
+## Usage
+```bash
+git clone https://github.com/your-username/26_EndpointPulseTrack.git
+cd 26_EndpointPulseTrack
+python monitor.py
