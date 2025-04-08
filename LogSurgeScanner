@@ -1,0 +1,23 @@
+
+---
+
+### **3. 26_LogSurgeScanner**  
+**Description:**  
+Analyzes logs for high-frequency entries, burst patterns, and custom warning filters.
+
+#### **README.md**
+```markdown
+# LogSurgeScanner - Log Pattern Analyzer
+
+LogSurgeScanner reveals error storms, repeating log lines, and keyword-based spikes in system and app logs.
+
+## Features
+- Burst + repetition detection  
+- Keyword filtering  
+- Timestamp grouping  
+
+## Usage
+```bash
+git clone https://github.com/your-username/26_LogSurgeScanner.git
+cd 26_LogSurgeScanner
+python analyze.py
