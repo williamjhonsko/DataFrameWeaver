@@ -1,0 +1,23 @@
+
+---
+
+### **4. 26_ChartWaveStream**  
+**Description:**  
+Visualizes numeric streams as real-time line graphs with smooth animation.
+
+#### **README.md**
+```markdown
+# ChartWaveStream - Realtime Stream Plotter
+
+ChartWaveStream turns live or simulated numerical input into a responsive, auto-scrolling chart.
+
+## Features
+- Real-time updates  
+- Adjustable refresh rate  
+- Matplotlib-powered  
+
+## Usage
+```bash
+git clone https://github.com/your-username/26_ChartWaveStream.git
+cd 26_ChartWaveStream
+python visualize.py
